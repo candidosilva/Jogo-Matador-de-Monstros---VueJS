@@ -1,6 +1,3 @@
 # Jogo-Matador-de-Monstros---VueJS
 
-
-Projeto Matador de Monstros
-
-O objetivo é aprender manipulação de DOM
+O objetivo é aprender manipulação de DOM usando VueJS
